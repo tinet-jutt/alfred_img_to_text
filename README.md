@@ -6,3 +6,4 @@
 - 进入控制台 https://console.bce.baidu.com/?fromai=1#/aip/overview
 - 进入服务概览创建应用获取 API key 和 Secret key
 - 配置client_id 和 client_secret
+详情可参考 https://ai.baidu.com/forum/topic/show/979001
